@@ -24,4 +24,4 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### sumber
-YouTube [Configuration Reference](https://www.youtube.com/watch?v=JLc-hWsPTUY).
+[YouTube](https://www.youtube.com/watch?v=JLc-hWsPTUY).
